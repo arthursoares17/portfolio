@@ -5,7 +5,7 @@
     Github, 
     Mail 
   } from 'lucide-vue-next';
-  import avatarImage from '@/assets/images/avatar.png'
+  import avatarImage from '@/assets/images/avatar-image.png'
   import BaseButton from '../shared/BaseButton.vue'
 
   const socialsLinks = [
